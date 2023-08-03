@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    color:white;
+    background-color:blue;
+}
+h3{
+    font-family: 'Oswald', sans-serif;
+    color:darkblue;
+}
+.flexcontainer{
+    background-color: blueviolet;
+    display:flex;
+    justify-content: center;
+}
+.flexcontainer div{
+    background-color: lightcoral;
+    color:blue;
+    padding:20px;
+    margin:10px;
+    font-size: 30px;
+}
+img{
+    height: 500px;
+    width:500px;
+}
